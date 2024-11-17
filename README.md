@@ -1,18 +1,9 @@
 # My Javascript Content!
 
 I'm learning JavaScript as a hobby and for a project(s)!
+I will be using a book called: "Javascript: All-In-One" created by Chris Minnickto guide me through learning JavaScript!
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <h1>hi</h1>
-  </body>
-</html>
+```javascript
+let expressionVar = ':D'
+alert(expressionVar)
 ```
-
